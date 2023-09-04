@@ -1,0 +1,34 @@
+body { margin: 0;
+}
+
+h1 { margin: 0; 
+    background-color: black;
+    padding: 8px;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    /* how do you bring text items in from the side? */
+}
+
+a {
+        color: white;
+        cursor: pointer;
+        text-decoration: underline;
+    }
+
+
+
+h2 {margin: 0; 
+    background-color: blue;
+    color: white;
+}
+
+h3 { margin: 0; 
+    background-color: blue;
+    color: white;
+}
+
+h4 { margin: 0;
+    background-color: blue;
+    color: white;
+}
